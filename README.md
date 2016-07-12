@@ -16,6 +16,8 @@ test_data.csv is the dataset that I only choose 2 type crimes(13,16)
 
 hw2.py: the main python file
 
+Stanfordpaper_RFprediction.pdf is a paper from Stanford predict SF crimes categories.
+
 Firstly, run 123.py
 Then, run hw2.py
 
